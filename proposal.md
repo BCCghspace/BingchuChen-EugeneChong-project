@@ -31,6 +31,7 @@ We have two use cases in mind:
 ## Wireframes / Mock-ups
 
 Below is a wireframe of the main mapping page.
+
 **Left panel:**
 * Users can choose from a drop-down of pre-selected amenities. For instance, the `Restaurants` pair would load a query that selects restaurants from SafeGraph using the appropriate NAICS code and restaurants from OSM using the appropriate OSM tag.
 * Users could also enter their own NAICS codes and OSM tags to perform a custom comparison, since there isn't necessarily a 1-to-1 mapping between NAICS and OSM tags. This would ideally be some sort of form where users enter one code at a time, validate it to confirm it exists in the relevant dataset, see it pop up above the field, and click an "x" to remove it if they change their minds.
