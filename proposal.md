@@ -29,3 +29,5 @@ We have two use cases in mind:
 	* **How to host:** BigQuery
 
 ## Wireframes / Mock-ups
+
+![](IMG_4721 "Wireframe")
